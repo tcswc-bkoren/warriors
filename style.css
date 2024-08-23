@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap);
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background: linear-gradient(to right,blue,yellow);
+  font-family: "Alfa Slab One";
+  color:white;
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+img {
+  width :230px;
+}
+
