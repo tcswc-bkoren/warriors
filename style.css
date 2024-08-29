@@ -21,5 +21,11 @@ h1 {
 
 img {
   width :230px;
-}
 
+}
+#logo{
+  position: fixed;
+  width: 100px;
+  left: 40px;
+  top: 50px;
+}
